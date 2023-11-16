@@ -1,4 +1,4 @@
-#Trabalho da matéria Sociedade e meio ambiente 📘 <br>
+# Trabalho da matéria Sociedade e meio ambiente 📘 <br>
 Criei esse site como requisito para obtenção de nota na matéria <br>
 🔗 https://socmeioambientetrabalho.netlify.app/
 
